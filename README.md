@@ -1,2 +1,5 @@
 # Syntecxhub_Project_Portfolio-Design
-Portfolio Website UI is a modern personal portfolio homepage designed to showcase projects, skills, and contact information. The design focuses on clean layout, reusable components for navigation and project cards, and responsive variations for mobile and tablet using auto layout.
+Portfolio Website UI
+This project is a personal Portfolio website homepage UI designed to introduce a designer, highlight projects, and provide an easy way for visitors to connect. The layout features a clean hero section with a strong personal introduction, simple navigation (Home, About Me, Projects), and a clear “Connect with Me” call-to-action to encourage interaction. The design focuses on visual hierarchy, balanced typography, and a modern grid-based background to create a distinctive and engaging interface.
+
+The goal of this project was to practice building a professional portfolio layout while maintaining readability, responsive structure, and reusable components for future sections like project showcases and contact pages. The design was created in **Figma** with attention to spacing, alignment, and user-centered design principles. 🚀
